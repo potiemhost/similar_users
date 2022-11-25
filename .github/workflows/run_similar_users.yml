@@ -20,4 +20,4 @@ jobs:
 
       # Runs a set of commands using the runners shell
       - name: Run a hello_world script
-        run: python .github/workflows/similar_users (1).py
+        run: python .github/workflows/similar_users.py
