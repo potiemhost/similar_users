@@ -28,10 +28,10 @@ jobs:
       - name: install python packages
         run: |
           python -m pip install --upgrade pip
-          pip install -r .github/workflows/requirements.txt
+          pip install -r requirements.txt
           
 
       # Runs a single command using the runners shell
       - name: Run a Python script
         
-        run: python .github/workflows/similar_users.py
+        run: python similar_users.py
