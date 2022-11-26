@@ -6,4 +6,4 @@ python-dotenv
 urllib
 sklearn
 string
-tensorflow>=2.0.0
+tensorflow==2.0.0
