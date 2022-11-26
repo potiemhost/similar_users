@@ -1,9 +1,0 @@
-numpy
-pymongo
-pandas
-os
-python-dotenv
-urllib
-sklearn
-string
-tensorflow==2.0.0
